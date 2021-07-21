@@ -1,2 +1,1 @@
-# WebLogin-Register
-# WebLogin-Register
+Type /register and /login to see how it work!
